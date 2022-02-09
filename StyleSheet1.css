@@ -59,6 +59,14 @@
     border-radius: 5px;
     padding: 2px;
 }
+    .window:hover {
+        border: 3px solid #006666;
+    }
+
+    .window:focus {
+        border: 3px solid #006666;
+        outline: none;
+    }
 
 #komentarz {
     font-size: 15px;
