@@ -75,3 +75,21 @@
     box-sizing: border-box;
 }
 
+#sub {
+    min-height: 150px;
+}
+
+input[type=submit]{
+    width: 300px;
+    background-color: #004d4d;
+    font-size: 20px;
+    color: white;
+    padding: 15px 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    outline: none;
+    margin-top: 80px;
+}
